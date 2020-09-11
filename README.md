@@ -1,2 +1,2 @@
-# Pure_React-
+# Pure_React
 Pure React exercises
