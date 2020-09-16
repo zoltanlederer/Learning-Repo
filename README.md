@@ -1,2 +1,2 @@
-# Leraning git
+# Learning git
 git and GitHub exercises
