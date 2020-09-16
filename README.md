@@ -1,2 +1,2 @@
-# Pure_React
-Pure React exercises
+# Leraning git
+git and GitHub exercises
